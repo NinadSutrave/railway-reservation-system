@@ -1,0 +1,2 @@
+ERROR: duplicate key value violates unique constraint "train_pkey"
+  Detail: Key (train_number, start_date)=(5332, 2023-08-08) already exists.

@@ -1,0 +1,6 @@
+ERROR: No such train exists
+  Where: PL/pgSQL function allotk(character varying,date,integer,character,character varying[]) line 9 at RAISE
+ERROR: No such train exists
+  Where: PL/pgSQL function allotk(character varying,date,integer,character,character varying[]) line 9 at RAISE
+ERROR: No such train exists
+  Where: PL/pgSQL function allotk(character varying,date,integer,character,character varying[]) line 9 at RAISE
